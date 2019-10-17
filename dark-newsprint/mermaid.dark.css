@@ -93,7 +93,7 @@ text>tspan {
 .noteText {
   fill: black;
   stroke: none;
-  font-family: 'trebuchet ms', verdana, arial;
+  font-family: 'PT Serif', verdana, arial;
   font-size: 14px;
 }
 /** Section styling */

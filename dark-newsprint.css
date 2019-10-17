@@ -7,27 +7,27 @@
     font-family: 'PT Serif';
     font-style: normal;
     font-weight: normal;
-    src: local('PT Serif'), local('PTSerif-Regular'), url('./newsprint/pt-serif-v9-latin-regular.woff') format('woff');
+    src: local('PT Serif'), local('PTSerif-Regular'), url('./dark-newsprint/pt-serif-v9-latin-regular.woff') format('woff');
 }
 @font-face {
     font-family: 'PT Serif';
     font-style: italic;
     font-weight: normal;
-    src: local('PT Serif'), local('PTSerif-Italic'), url('./newsprint/pt-serif-v9-latin-italic.woff') format('woff');
+    src: local('PT Serif'), local('PTSerif-Italic'), url('./dark-newsprint/pt-serif-v9-latin-italic.woff') format('woff');
 }
 
 @font-face {
     font-family: 'PT Serif';
     font-style: normal;
     font-weight: bold;
-    src: local('PT Serif'), local('PTSerif-Bold'), url('./newsprint/pt-serif-v9-latin-700.woff') format('woff');
+    src: local('PT Serif'), local('PTSerif-Bold'), url('./dark-newsprint/pt-serif-v9-latin-700.woff') format('woff');
 }
 
 @font-face {
     font-family: 'PT Serif';
     font-style: italic;
     font-weight: bold;
-    src: local('PT Serif'), local('PTSerif-BoldItalic'), url('./newsprint/pt-serif-v9-latin-700italic.woff') format('woff');
+    src: local('PT Serif'), local('PTSerif-BoldItalic'), url('./dark-newsprint/pt-serif-v9-latin-700italic.woff') format('woff');
 }
 /*Add font face*/
 
@@ -116,7 +116,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Lucida Grande", "Corbel", sans-serif;
+    font-family: "PT Serif", "PT Serif", sans-serif;
     font-weight: normal;
     clear: both;
     -ms-word-wrap: break-word;

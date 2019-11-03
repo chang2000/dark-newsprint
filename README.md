@@ -2,7 +2,7 @@
 
 A simple, usable and elegent dark theme for typora. This is simply a hybird theme of two default theme in Typora, **Newsprint** and **Night**.
 
-Songti font is deplyed for chinese characters.
+Songti font is deployed for chinese characters.
 
 ## Demo
 
